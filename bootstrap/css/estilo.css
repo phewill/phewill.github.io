@@ -108,3 +108,7 @@ body {
 .contatos {
 	padding: 10px 20px;
 }
+
+.no-bot>div {
+	float: left;
+}
