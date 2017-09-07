@@ -9,7 +9,7 @@
 	padding: 20px;
 }
 .amarelo {
-	background: #FFDA6B
+	background: #FEE36F;
 }
 .cinza {
 	background: #ecf0f1;
@@ -26,6 +26,7 @@
 
 
 body {
+	font-size: 16px;
 	font-family: "Ralaway", Georgia, Serif;
 	text-align: left;
 	background: url("../../img/fundo.jpg");
@@ -92,7 +93,7 @@ body {
 	margin-right: 10px;
 }
 
-.config-h4-cursos {
+.config-h3-cursos {
 	margin-bottom: 0;
 	margin-top: 20px;
 }
